@@ -10,7 +10,7 @@ Study based on <a href="https://b7web.com.br/" target="_blank">B7Web</a> classes
 ### :computer: Demo Web
 
 <p align="center">
-   <img src="assets/designWeb.png.png" alt="Demonstration Design Web">
+   <img src="assets/designWeb.png" alt="Demonstration Design Web">
 </p>
 
 ### :iphone: Demo Mobile
