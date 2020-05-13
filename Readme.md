@@ -5,17 +5,14 @@
 Study based on <a href="https://b7web.com.br/" target="_blank">B7Web</a> classes in order to learn HTML5 and CSS3. Website developed from Zero and compatible with WEB / Tablet / Mobile.
 </p>
 
----
-
-### :computer: Demo Web
+## :computer: Demo Web
 
 <p align="center">
    <img src="assets/designWeb.png" alt="Demonstration Design Web">
 </p>
 
-### :iphone: Demo Mobile
+## :iphone: Demo Mobile
 
----
 <p align="center">
    <img src="assets/designMobile.png" alt="Demonstration Design Mobile">
 </p>
